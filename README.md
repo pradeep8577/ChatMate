@@ -1,6 +1,6 @@
 ## Demo
 
-![Quotes generator](demo.png)
+![Quotes generator](https://res.cloudinary.com/dwdntz8et/image/upload/v1680454829/chatMate_xc32iw.png)
 
 ## Contributing
 
@@ -10,4 +10,4 @@ If you like this project, please give it a star ⭐️
 
 ## Acknowledgement
 
-Built by [Faisal](https://twitter.com/faisalamin001) powered by [Open AI](https://openai.com/)
+Built by [The_NextAI](https://www.github.com/pradeep8577) powered by [Open AI](https://openai.com/)
